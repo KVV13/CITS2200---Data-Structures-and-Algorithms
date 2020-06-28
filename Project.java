@@ -4,7 +4,7 @@ import java.util.*;
  * This program is designed to create graphs and manipulate them to find certain properties.
  * Such properties include distance between vertices, graph centres, strongly connected components and hamiltonian paths.
  *
- * @author (Kushil Vaghjiani)
+ * @author (22503488)
  * @version (Final Submission Version)
  */
 public class Project implements CITS2200Project
